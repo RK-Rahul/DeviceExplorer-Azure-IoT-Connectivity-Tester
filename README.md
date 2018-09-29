@@ -7,7 +7,7 @@ https://github.com/Azure/azure-iot-sdk-csharp/tree/master/tools/DeviceExplorer
 
 One new tab added in existing Device explorer utility with the name of "Send Device to Cloud Message".
 
-I don't know why this functionality is not there in existing utility as this is one of the major feature that every developer want to test once they done with the basic set up of Azure IoT hub on Microsoft azure portal.
+I don't know why this functionality is not there in existing utility as this is one of the major feature that every developer wants to test once they done with the basic set up of Azure IoT hub on Microsoft azure portal.
 
 How to use new Tab :  
 
