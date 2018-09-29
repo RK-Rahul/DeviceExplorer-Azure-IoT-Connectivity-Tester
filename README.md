@@ -13,7 +13,7 @@ How to use new Tab :
 
 So this tab basically needs few information in order to send device telemetry to cloud and at the same time you can use Data tab to check whether message received by cloud or not.
 
-Below are the some Input fields that need to be fill before sending data to cloud.
+Below are the some Input fields that needs to be filled before sending data to cloud.
 
 IoTHubHost Name : This can be easily get from the portal under overview menu.
 
