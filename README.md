@@ -1,4 +1,4 @@
-# DeviceExplorer-Azure-IoT-Connectivity-Tester
+# DeviceExplorer Azure IoT Connectivity Tester
 This is the extended version of Device Explorer Twin utility.  
 
 Please refer below link for all the basic guide line for this utility.
